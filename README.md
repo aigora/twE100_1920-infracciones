@@ -4,7 +4,7 @@ Vamos a realizar un programa que gestiona multas tanto de velocidad como de alco
 ## Integrantes del equipo 
 - ALBERTO DIAZ BEJERANO
 - MAR FERNANDEZ DE USERA PEREZ
-- ALVARO ESPINOSA RICO
+- ALVARO ESPINOSA RICO 54581
 - LUCAS DE SARRIA GUENANE
 ## Objetivos del trabajo
 Poner en comun lo aprendido en clase y poder usar los materiales que tenemos para hacer un programa que sirva para algo .
